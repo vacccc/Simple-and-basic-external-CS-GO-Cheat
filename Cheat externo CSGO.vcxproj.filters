@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Arquivos de Origem">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Recurso">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Origem\funcionalidades">
+      <UniqueIdentifier>{6f9552b2-641b-4842-9090-7cd046e0caf5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Cheat externo CSGO.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="MemMan.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MemMan.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="offsetsDoHazedumper.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="base de tudo.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="bhop.h">
+      <Filter>Arquivos de Origem\funcionalidades</Filter>
+    </ClInclude>
+    <ClInclude Include="glow.h">
+      <Filter>Arquivos de Origem\funcionalidades</Filter>
+    </ClInclude>
+    <ClInclude Include="triggerbot.h">
+      <Filter>Arquivos de Origem\funcionalidades</Filter>
+    </ClInclude>
+    <ClInclude Include="musiquinha.h">
+      <Filter>Arquivos de Origem\funcionalidades</Filter>
+    </ClInclude>
+    <ClInclude Include="autopistol.h">
+      <Filter>Arquivos de Origem\funcionalidades</Filter>
+    </ClInclude>
+    <ClInclude Include="terceiraPessoa.h">
+      <Filter>Arquivos de Origem\funcionalidades</Filter>
+    </ClInclude>
+    <ClInclude Include="reduzir_flash.h">
+      <Filter>Arquivos de Origem\funcionalidades</Filter>
+    </ClInclude>
+    <ClInclude Include="aimbot.h">
+      <Filter>Arquivos de Origem\funcionalidades</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>
