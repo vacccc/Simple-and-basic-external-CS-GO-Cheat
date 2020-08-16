@@ -15,24 +15,22 @@ void PaginaMain()
                   __   ___   ___ ___   _____  _______ ___ ___ _  _   _   _    
                   \ \ / /_\ / __/ __| | __\ \/ /_   _| __| _ \ \| | /_\ | |   
                    \ V / _ \ (_| (__  | _| >  <  | | | _||   / .` |/ _ \| |__ 
-                    \_/_/ \_\___\___| |___/_/\_\ |_| |___|_|_\_|\_/_/ \_\____|        
-
-                                                                                          
+                    \_/_/ \_\___\___| |___/_/\_\ |_| |___|_|_\_|\_/_/ \_\____|                                                                                           
         )" << std::endl;
     std::cout << "========================================================================================================================" << std::endl;
-    std::cout << "             KEY BINDS            " << std::endl;
-    std::cout << "                                  " << std::endl;
-    std::cout << "GLOW         : [NUMPAD 0]                                  " << std::endl;
-    std::cout << "BHOP         : [NUMPAD 1]                                 " << std::endl;
-    std::cout << "TRIGGER BOT  : [NUMPAD 2] hold alt                                 " << std::endl;
-    std::cout << "AUTO PISTOL  : [NUMPAD 3]                            " << std::endl;
-    std::cout << "THIRDPERSON  : [NUMPAD 4]                                  " << std::endl;
-    std::cout << "REDUCE FLASH : [NUMPAD 5]                                  " << std::endl;
+    std::cout << "             KEY BINDS                                                                                                  " << std::endl;
+    std::cout << "                                                                                                                        " << std::endl;
+    std::cout << "GLOW         : [NUMPAD 0]                                                                                               " << std::endl;
+    std::cout << "BHOP         : [NUMPAD 1]                                                                                               " << std::endl;
+    std::cout << "TRIGGER BOT  : [NUMPAD 2] hold alt                                                                                      " << std::endl;
+    std::cout << "AUTO PISTOL  : [NUMPAD 3]                                                                                               " << std::endl;
+    std::cout << "THIRDPERSON  : [NUMPAD 4]                                                                                               " << std::endl;
+    std::cout << "REDUCE FLASH : [NUMPAD 5]                                                                                               " << std::endl;
     std::cout << "========================================================================================================================" << std::endl;
-    std::cout << "              AVISOS              " << std::endl;
-    std::cout << " 01: Reincie o programa ao trocar de mapa  " << std::endl;
-    std::cout << " 02: Se o cheat nao estiver funcionando, baixe a nova versao" << std::endl;
-    std::cout << " 03: As binds [NUMPAD] podem apresentar bugs, tendo que ser precionada varias vezes se necessario" << std::endl;
+    std::cout << "              AVISOS                                                                                                    " << std::endl;
+    std::cout << " 01: Reincie o programa ao trocar de mapa                                                                               " << std::endl;
+    std::cout << " 02: Se o cheat nao estiver funcionando, baixe a nova versao                                                            " << std::endl;
+    std::cout << " 03: As binds [NUMPAD] podem apresentar bugs, tendo que ser precionada varias vezes se necessario                       " << std::endl;
     std::cout << "========================================================================================================================" << std::endl;
     std::cout << "LOGS:" << std::endl;
 
